@@ -31,7 +31,7 @@ Onde,
 
 **2. Encontrar a inversa:**
 
-![equation](https://latex.codecogs.com/gif.latex?B&space;=&space;I&space;\Rightarrow&space;Ax&space;=&space;I&space;\Rightarrow&space;x&space;=&space;A^{-1})
+![equation](https://latex.codecogs.com/gif.latex?A^{-1}A&space;=&space;I&space;\Rightarrow&space;Ax&space;=&space;B&space;\Rightarrow&space;A^{-1}Ax&space;=&space;A^{-1}B&space;\Rightarrow&space;x&space;=&space;A^{-1}B)
 <br>
 
 
@@ -80,5 +80,5 @@ Onde,
 
 # Autores:  
 * Lucas Hideki Ueda (lucashueda@gmail.com)
-* Gustavo Guedes []
+* Gustavo Guedes [gugagfaria@hotmail.com]
 * Inaye Caroline []
